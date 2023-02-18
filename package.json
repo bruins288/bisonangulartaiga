@@ -1,0 +1,26 @@
+{
+  "name": "bisonangulartaiga",
+  "version": "1.0.0",
+  "description": "app angular with UI Taiga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruins288/bisonangulartaiga.git"
+  },
+  "keywords": [
+    "angular",
+    "Taiga"
+  ],
+  "author": "Morozov Alexei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruins288/bisonangulartaiga/issues"
+  },
+  "homepage": "https://github.com/bruins288/bisonangulartaiga#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
